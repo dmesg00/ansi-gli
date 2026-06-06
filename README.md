@@ -11,11 +11,11 @@ For Windows, you just have to follow the following steps for installation and us
 
 * **Installation and Use:**
 
-  * Download the package [ansi-gli-2.7.zip](https://github.com/asdo92/ansi-gli/releases/download/v2.7/ansi-gli-2.7.zip).
+  * Download the package [ansi-gli-2.7.zip](https://github.com/dmesg00/ansi-gli/releases/download/v2.7/ansi-gli-2.7.zip).
   * Unzip the package.
   * Run `ansi-gli_x86.exe` (for Windows 32-bits) or `ansi-gli_x86_64.exe` (for Windows 64-bits).
   * **Optional**: If you want CapsLock disabled, run `ansi-gli-nocapslock_x86.exe` or `ansi-gli-nocapslock_x86_64.exe`.
-  * You will see the app icon on the tray. ([Image](https://github.com/asdo92/ansi-gli/blob/master/images/ansi-gli-tray.png))
+  * You will see the app icon on the tray. ([Image](https://github.com/dmesg00/ansi-gli/blob/master/images/ansi-gli-tray.png))
   * You can now use the key combinations.
 
 List of combinations:
@@ -60,7 +60,7 @@ If you want to add more combinations or the ones mentioned do not work for you, 
 * Install `autokey` for Linux ([from here](https://github.com/autokey/autokey/releases)).
 * Install `Python3` (Installed by default on many Linux distributions).
 * Install the command `make` (`sudo apt-get install make` on Ubuntu/Debian).
-* Download the package [ansi-gli-2.7.zip](https://github.com/asdo92/ansi-gli/releases/download/v2.7/ansi-gli-2.7.zip).
+* Download the package [ansi-gli-2.7.zip](https://github.com/dmesg00/ansi-gli/releases/download/v2.7/ansi-gli-2.7.zip).
 * Unzip the package.
 * Inside the `linux` folder, open a terminal and type the command: `make install`.
 * Run `autokey` (It is recommended to configure it to start on login).
@@ -88,7 +88,7 @@ I don't know and I don't care.
 * First, install [AutoHoyKey](https://www.autohotkey.com/).
 * Then, download the source from here.
 * In the directory `src`, you have `ansi-gli.ahk`. Right click.
-* Choose `Compile Script`. ([Image](https://github.com/asdo92/ansi-gli/blob/master/images/ansi-gli-compile.png))
+* Choose `Compile Script`. ([Image](https://github.com/dmesg00/ansi-gli/blob/master/images/ansi-gli-compile.png))
 
 ### External links:
 

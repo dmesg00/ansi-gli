@@ -3,7 +3,7 @@
 ######################################
 # Script to map Win key to AltGr key #
 #                                    #
-# Author: asdo92@duck.com            #
+# Author: dmesg00@duck.com            #
 ######################################
 
 # Variables
